@@ -6,3 +6,4 @@ I majored in Computer Science at **Dongguk University** and currently work at **
 
 ## 💬 Let's Connect!
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jisuna314@gamil.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seona-ji/)
